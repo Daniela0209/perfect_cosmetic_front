@@ -19,7 +19,115 @@
     box-shadow: inset 0 0 35px;
  
  }
+ 
  .logoinicio{
     margin-top: 70px;
     margin-right: 100px;
+ }
+
+ .fraseGender{
+    text-align: center;
+ }
+ .fraseElegir{
+    margin-top: 80px;
+    margin-left: 60px;
+    text-align: center;
+ }
+
+.mensaje{
+   width: 100px;
+   height: 100px;
+   float: left;
+   margin-top: 20px;
+   margin-left: 20px;
+}
+
+ .beso{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+ }
+ .estrella{
+   width: 100px;
+   height: 100px;
+   float: right;
+   margin-top: 320px;
+ }
+
+ .corazon1{
+   width: 110px;
+   height: 100px;
+   float: left;
+   margin-top: 80px;
+   margin-left: 200px;
+ }
+
+ .labial{
+   width: 100px;
+   height: 100px;
+   float: left;
+   margin-top: 320px;
+   
+ }
+ .corazon2{
+   width: 110px;
+   height: 100px;
+   float: right;
+   margin-top: 80px;
+   margin-right: 200px;
+ }
+
+ .btnFemenino{
+   position:relative;
+   left: 230px;
+   top: 10px;
+   height: 40px;
+   width: 130px;
+   background-color: #9228FA;
+   border: 0;
+   color: white;
+ }
+ .btnMasculino{
+   position:relative;
+   left: 100px;
+   top: 80px;
+   height: 40px;
+   width: 130px;
+   background-color:#9228FA;
+   border: 0;
+   color: white;
+ }
+ .btnOtro{
+  position:relative;
+  left: -30px;
+  top: 150px;
+  height: 40px;
+  width: 130px;
+  background-color: #9228FA;
+  border: 0;
+  color: white;
+ }
+
+ #buttonSinginwithGoogle{
+   height:60px;
+   width: 250px;
+   float: left;
+   margin-left: 120px;
+   background-color: #5F94DC;
+   border: 0;
+   color: white;
+ }
+
+ #logoGoogle{
+   width: 30px;
+   height: 30px;
+   float: left;
+   margin-top: 10px;
+
+ }
+
+ .TextLogin{
+
  }

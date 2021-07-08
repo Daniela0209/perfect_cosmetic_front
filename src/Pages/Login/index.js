@@ -25,11 +25,11 @@ function Login({signInWithGoogle}){
             onClick={signInWithGoogle}
           >
             <img
-              id = "logo-google-login"
+              id = "logoGoogle"
               src="https://img.icons8.com/fluent/50/000000/google-logo.png"
               alt="icon-google"
             />
-            Sign up with Google
+            <h3 className="TextLogin">Sign up with Google</h3>
           </button>
         </div>
         </div>
