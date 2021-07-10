@@ -1,0 +1,172 @@
+.fondo {
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+   }
+
+.header{
+  background-color: #EDAEE1;
+  height: 90px;
+  }
+.logoF{
+  height:100px;
+  width: 160px;
+  margin: 0;
+  }
+.cerrar{
+  height: 30px;
+  width: 30px;
+  }
+.comentariosF{
+  float: right;
+  margin-top: 15px;
+  margin-right: 20px;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+ }
+.comentariosF:hover{
+  color: white;
+ }
+ 
+.sobremi{
+  float: right;
+  margin-top: 15px;
+  margin-right: 20px;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+ }
+ 
+.sobremi:hover{
+  color: white;
+ }
+ /*tercera pantalla Femenino (tarjetas)*/
+#delineados{
+  height: 150px;
+  width: 180px;
+  border-radius: 30px;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  left: 90px;
+  top: 20px;
+  background-color: #B73ECF;
+ }
+#pestañina{
+  height: 150px;
+  width: 180px;
+  border-radius: 30px;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  left: 380px;
+  top: 20px;
+  background-color: #1DB7DC;
+ }
+ 
+#sombras{
+  height: 150px;
+  width: 180px;
+  border-radius: 30px;
+  border: 0;
+  cursor: pointer;
+  float: right;
+  position: relative;
+  right: 150px;
+  top: 20px;
+  background-color: #E8659D;
+ }
+#preparar{
+  height: 150px;
+  width: 180px;
+  border-radius: 30px;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  right: 30px;
+  top: 190px;
+  background-color: #DC1D2C;
+ }
+#productos{
+  height: 150px;
+  width: 180px;
+  border-radius: 30px;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  left: 240px;
+  top: 190px;
+  background-color: #801DDC;
+ }
+#noche{
+  height: 150px;
+  width: 180px;
+  border-radius: 30px;
+  border: 0;
+  cursor: pointer;
+  position: absolute;
+  top: 440px;
+  background-color: #61E060;
+ }
+#dia{
+  height: 150px;
+  width: 180px;
+  border-radius: 30px;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  top: 350px;
+  right: 650px;
+  background-color: #1AC77D;
+ }
+#trucos{
+  height: 150px;
+  width: 180px;
+  border-radius: 30px;
+  border: 0;
+  cursor: pointer;
+  float: right;
+  position: relative;
+  top: 360px;
+  left: 40px;
+  background-color: #BEC805;
+ }
+ 
+ /*icons de las tarejetas femenino*/
+.delineador{
+  width: 90px;
+  height: 80px;
+ }
+.pestañina{
+  width: 80px;
+  height: 70px;
+ }
+ .sombras{
+  width: 80px;
+  height: 70px;
+ }
+.preparar{
+  width: 50px;
+  height: 40px;
+ }
+.productos{
+  width: 60px;
+  height: 40px;
+ }
+.noche{
+  width: 50px;
+  height: 40px;
+ }
+.dia{
+  width: 60px;
+  height: 50px;
+ }
+.trucos{
+  width: 60px;
+  height: 50px;
+ }

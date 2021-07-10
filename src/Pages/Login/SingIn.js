@@ -1,7 +1,6 @@
 import React from "react";
-import Login from "../Login/index";
+import Login from "./Index";
 import { useAuthState } from "react-firebase-hooks/auth";
-import Gender from "../Gender/gender";
 import { auth, signInWithGoogle } from "../../functions/firebaseAuth";
 import { useHistory } from "react-router-dom";
 //import { environment} from '../../environment/backendurl'

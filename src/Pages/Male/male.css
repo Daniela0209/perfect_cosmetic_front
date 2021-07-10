@@ -1,0 +1,154 @@
+.fondo {
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+   }
+.headerM{
+  height: 90px;
+  background-color: #7789F7;
+  }
+.logoM{
+  height:100px;
+  width: 160px;
+  margin: 0;
+  }
+  
+.sobremiM{
+  float: right;
+  margin-top: 15px;
+  margin-right: 20px;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  }
+  
+.sobremiM:hover{
+  color: white;
+  }
+.comentariosM{
+  float: right;
+  margin-top: 15px;
+  margin-right: 20px;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  }
+.comentariosM:hover{
+  color: white;
+  }
+  
+  /* puntos fondo */
+.punto1{
+  background-color: transparent;
+  border: 0;
+  height: 30px;
+  width: 30px;
+  float: right;
+  margin-right: 50px;
+  margin-top: 80px;
+  }
+.punto2{
+  background-color: transparent;
+  border: 0;
+  height: 30px;
+  width: 30px;
+  position: relative;
+  left: 80px;
+  top: 200px;
+  }
+.punto3{
+  background-color: transparent;
+  border: 0;
+  height: 30px;
+  width: 30px;
+  position: relative;
+  left: 30px;
+  top: 60px;
+  }
+.punto4{
+  background-color: transparent;
+  border: 0;
+  height: 30px;
+  width: 30px;
+  position: relative;
+  left: 380px;
+  top: 20px;
+  }
+.punto5{
+  background-color: transparent;
+  border: 0;
+  height: 30px;
+  width: 30px;
+  position: relative;
+  left: 280px;
+  top: 220px;
+  }
+.punto6{
+  background-color: transparent;
+  border: 0;
+  height: 30px;
+  width: 30px;
+  position: relative;
+  left: 500px;
+  top: 200px;
+  }
+.punto7{
+  background-color: transparent;
+  border: 0;
+  height: 30px;
+  width: 30px;
+  position: relative;
+  left: 90px;
+  top: 30px;
+  }
+
+#limpieza{
+  height: 190px;
+  width: 220px;
+  border-radius: 30px;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  left: 120px;
+  top: 150px;
+  background-color: #77D353;
+  }
+.limpiezaM{
+  height: 150px;
+  width: 150px;
+  }
+#mascarillas{
+  height: 190px;
+  width: 220px;
+  border-radius: 30px;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  left: 220px;
+  top: 150px;
+  background-color: #DB8C1E;
+}  
+.mascarillasM{
+  height: 140px;
+  width: 150px;
+}
+
+#piel{
+  height: 190px;
+  width: 220px;
+  border-radius: 30px;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  left: 350px;
+  top: 150px;
+  background-color: #E37171;
+}
+.pielM{
+  height: 130px;
+  width: 140px;
+}

@@ -1,6 +1,6 @@
 import React from "react";
-import FondoGender from "../../images/FondoGender.jpg";
-import "../Login/styles/index.css"
+import Fondo from "../../images/FondoGender.jpg";
+import "../../Pages/Gender/gender.css";
 import Beso from "../../images/beso.png";
 import Mensaje from "../../images/mensaje.png";
 import Estrella from "../../images/estrella.png";
@@ -10,7 +10,7 @@ import Labial from "../../images/labial.png";
 function Gender(){
     return(
         <div  className="container-fluid fondo"
-        style={{ backgroundImage: `url(${FondoGender})` }}>
+        style={{ backgroundImage: `url(${Fondo})` }}>
             
               <img className="beso"   
               class="rounded mx-auto d-block beso"
@@ -23,9 +23,9 @@ function Gender(){
             <h1 className="fraseGender">¡QUE BUENO TENERTE CON NOSOTROS!</h1>
                 <h2 className="fraseElegir">Elige tu género</h2>
 
-                <button className="btnFemenino">Femenino</button>
-                <button className="btnMasculino">Masculino</button>
-                <button className="btnOtro">Otro</button>
+         <a href="Feminine"><button className="btnFemenino">Femenino</button></a>  
+             <a href="Male"><button className="btnMasculino">Masculino</button></a>   
+                <a href="Other"><button className="btnOtro">Otro</button></a>
 
             <img className="corazon1"   
               class="rounded mx-auto d-block corazon1"

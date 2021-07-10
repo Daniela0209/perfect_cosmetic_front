@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/index.css";
+import "../Login/login.css";
 import Logo from "../../images/logo.png";
 import Fondo from "../../images/fondo.jpg";
 
@@ -29,7 +29,7 @@ function Login({signInWithGoogle}){
               src="https://img.icons8.com/fluent/50/000000/google-logo.png"
               alt="icon-google"
             />
-            <h3 className="TextLogin">Sign up with Google</h3>
+            <h3>Sign up with Google</h3>
           </button>
         </div>
         </div>

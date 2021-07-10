@@ -1,0 +1,44 @@
+.fondo {
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   }
+
+   #buttonSinginwithGoogle{
+    height:60px;
+    width: 250px;
+    float: left;
+    margin-left: 120px;
+    background-color: #78A4E3;
+    border: 10;
+    color: black;
+    cursor: pointer;
+  }
+  
+  #buttonSinginwithGoogle:hover{
+    background-color: white;
+  }
+  
+  #logoGoogle{
+    width: 35px;
+    height: 35px;
+    float: left;
+    margin-top: 10px;
+  }
+  
+  
+     #circulo{
+      height:390px;
+      width:400px;
+      background:white;
+      -moz-border-radius:150px;
+      -webkit-border-radius:250px;
+      border-radius:480px;
+      margin: 40px;
+      box-shadow: inset 0 0 35px;
+   
+   }
