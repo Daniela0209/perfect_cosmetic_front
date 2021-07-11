@@ -1,4 +1,4 @@
-.fondo {
+.fondoO {
     min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -9,7 +9,7 @@
     }   
 .headerO{
     height: 90px;
-    background-color: #77F789;
+    background-color: #4aaf58;
 }  
 .logoO{
     height:100px;

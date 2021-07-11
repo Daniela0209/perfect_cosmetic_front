@@ -1,26 +1,26 @@
 import React from "react";
 import Fondo from "../../images/fondoComentF.jpg";
 import Logo from "../../images/logo.png";
+import { render } from 'react';
+import ChatRoom from "./ChatRoom";
 
-function Comments(){
-    return(
+function Comments() {
+    return (
 
-        <div  className="container-fluid fondo"
+        <div className="container-fluid fondo"
         style={{ backgroundImage: `url(${Fondo})` }}>
-
         <header
             className="header">
-               <footer>
-               <img className="logoF"   
-              class="rounded mx-auto d-block logoF"
-               src={Logo} alt="x"/> 
-                   </footer>  
+            <img className="logoF"
+                class="rounded mx-auto d-block logoF"
+                src={Logo} alt="x" />
 
-            </header>
-        </div>
+
+        </header>
+    </div>
     )
 }
 
 
 
-export default Comments
+export default Comments 

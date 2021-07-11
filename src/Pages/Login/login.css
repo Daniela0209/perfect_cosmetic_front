@@ -1,4 +1,4 @@
-.fondo {
+.fondoI {
     min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -21,6 +21,7 @@
   
   #buttonSinginwithGoogle:hover{
     background-color: white;
+    
   }
   
   #logoGoogle{

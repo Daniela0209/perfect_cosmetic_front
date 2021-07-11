@@ -1,0 +1,124 @@
+.fondoS {
+    max-height: 973px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    }
+
+.headerS{
+    display: flex;
+    height: 90px;
+    background-color: #EDAEE1;
+    }     
+
+.logoS{
+    height:100px;
+    width: 160px;
+    margin: 0;
+    } 
+.sombra{
+    background-color: transparent;
+    border: 0;
+    position: relative;
+    left: 400px;
+    }        
+.tituloS{
+    position: relative;
+    left: 400px;
+    font-family: "Architects Daughter";
+    }
+.cafe{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: 50px;
+    margin-left: 20px;
+    }
+.tituloCafe {
+    position: relative;
+    top: 44px;
+    left: 140px;
+    font-family: "Architects Daughter";
+} 
+.tituloPrincipiante{
+    position: relative;
+    left: 567px;
+    top: -326px;
+    font-family: "Architects Daughter";
+}
+.principiante{
+    position: relative;
+    top: -322px;
+    left: 480px;
+    height: 300px;
+    width: 400px;
+   
+}  
+
+.casual{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -692px;
+    left: 940px;
+}
+.tituloCasual{
+    font-family: "Architects Daughter";
+    position: relative;
+    left: 970px;
+    top: -697px;
+}
+.profunda{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -647px;
+    left: 20px;
+}
+.tituloProfunda{
+    position: relative;
+    top: -670px;
+    left: 122px;
+    font-family: "Architects Daughter";
+}
+.sencilla{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -1019px;
+    left: 480px;
+}
+.tituloSencilla{
+    position: relative;
+    top: -1043px;
+    left: 574px;
+    font-family: "Architects Daughter";
+}
+
+.flechaAtrasS{
+    height: 50px;
+    width: 50px;
+    background-color: transparent;
+    border: 0;
+    position: relative;
+    top: -2160px;
+    left: -396px;
+    cursor: pointer;
+
+}
+.tituloDifuminada{
+    position: relative;
+    top: -1413px;
+    left: 970px;
+    font-family: "Architects Daughter";
+}
+.difuminada{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -1393px;
+    left: 942px;
+}

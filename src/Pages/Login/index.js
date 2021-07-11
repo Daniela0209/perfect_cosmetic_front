@@ -7,7 +7,7 @@ import Fondo from "../../images/fondo.jpg";
 
 function Login({signInWithGoogle}){
     return(
-        <div className="container-fluid fondo"
+        <div className="container-fluid fondoI"
         style={{ backgroundImage: `url(${Fondo})` }} >
 
           <div id="circulo">
@@ -29,7 +29,7 @@ function Login({signInWithGoogle}){
               src="https://img.icons8.com/fluent/50/000000/google-logo.png"
               alt="icon-google"
             />
-            <h3>Sign up with Google</h3>
+            <h3>Iniciar sesión con Google</h3>
           </button>
         </div>
         </div>

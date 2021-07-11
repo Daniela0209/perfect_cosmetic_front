@@ -1,0 +1,199 @@
+.fondoPro {
+    max-height: 1830px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    }
+
+.polvoCompacto{
+    height: 300px;
+    width: 400px;
+     margin-left: 20px;
+    }
+.tituloCompacto{
+    position: relative;
+    left: 80px;
+    font-family: "Architects Daughter";
+    }
+.contenidoCompacto{
+    max-width: 400px;
+    position: relative;
+    left: 30px;
+    } 
+
+.correctorOjeras{
+    position: relative;
+    top: -496px;
+    left: 480px;
+    height: 300px;
+    width: 400px;
+      
+    }
+.tituloOjeras{
+    position: relative;
+    left: 590px;
+    top: -496px;
+    font-family: "Architects Daughter";
+    }
+.contenidoOjeras{
+    max-width: 400px;
+    position: relative;
+    top: -492px;
+    left: 490px; 
+    }
+.pestañina{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -946px;
+    left: 940px;
+    }
+.tituloPestañina{
+    position: relative;
+    top: -948px;
+    left: 1030px;
+    font-family: "Architects Daughter";
+    }
+.contenidoPestañina{
+    max-width: 400px;
+    position: relative;
+    top: -951px;
+    left: 940px;
+    } 
+.cejas{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -918px;
+    left: 20px;
+    }
+.tituloCejas{
+    position: relative;
+    top: -923px;
+    max-width: 400px;
+    left: 61px;
+    font-family: "Architects Daughter";
+    }
+.contenidoCejas{
+    max-width: 400px;
+    position: relative;
+    top: -919px;
+    left: 30px;
+    }    
+.brochas{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -1455px;
+    left: 500px;
+    }
+.tituloBrochas{
+    position: relative;
+    top: -1453px;
+    left: 628px;
+    font-family: "Architects Daughter";
+    }
+.contenidoBrochas{
+    max-width: 400px;
+    position: relative;
+    top: -1458px;
+    left: 504px;
+    }
+.tituloBlush{
+    position: relative;
+    top: -1982px;
+    left: 1004px;
+    font-family: "Architects Daughter";
+    }
+.blush{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -1988px;
+    left: 935px;
+    }
+.contenidoBlush{
+    max-width: 400px;
+    position: relative;
+    top: -1992px;
+    left: 943px;
+
+    }
+.tituloBase{
+    position: relative;
+    top: -1931px;
+    left: 107px;
+    font-family: "Architects Daughter";
+    }
+.base{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -1932px;
+    left: 28px;
+    }
+.contenidoBase{
+    max-width: 400px;
+    position: relative;
+    top: -1922px;;
+    left: 39px;
+    }
+
+.tituloPaleta{
+    position: relative;
+    top: -2503px;
+    left: 629px;
+    font-family: "Architects Daughter";
+    }
+.paleta{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -2507px;
+    left: 499px;
+    }
+.contenidoPaleta{
+    max-width: 340px;
+    position: relative;
+    top: -2502px;
+    left: 521px;
+    }
+.tituloLabial{
+    position: relative;
+    top: -3036px;
+    left: 1030px;
+    font-family: "Architects Daughter";
+    }
+.labialImg{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -3035px;
+    left: 935px;
+    }
+.contenidoLabial{
+    max-width: 400px;
+    position: relative;
+    top: -3035px;
+    left: 940px;
+    
+    }
+
+.flechaAtrasProducto{
+    height: 50px;
+    width: 50px;
+    background-color: transparent;
+    border: 0;
+    position: relative;
+    top: -4609px;
+    left: 5px;
+    cursor: pointer;
+}
+
+.flechaAtrasProduct{
+height: 40px;
+width: 40px;
+}

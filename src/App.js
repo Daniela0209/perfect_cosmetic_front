@@ -12,10 +12,10 @@ import Pestañina from "./Pages/Pestañina/Pestañina";
 import Sombras from "./Pages/Sombras/Sombras";
 import Preparar from "./Pages/PrepararF/Preparar";
 import Productos from "./Pages/Productos/Productos";
-import Noche from "./Pages/Noche/Noche";
-import Dia from "./Pages/Dia/Dia";
-import Trucos from "./Pages/Trucos/Trucos";
-import SobreMi from "./Pages/SobreMi/SobreMi";
+
+
+
+
 
 function App() {
   return (
@@ -32,10 +32,7 @@ function App() {
         <Route path="/sombras" component={Sombras}/>
         <Route path="/preparar" component={Preparar}/>
         <Route path="/productos" component={Productos}/>
-        <Route path="/noche" component={Noche}/>
-        <Route path="/dia" component={Dia}/>
-        <Route path="/trucos" component={Trucos}/>
-        <Route path="/sobreMi" component={SobreMi}/>
+        
       </Switch>
     </Router>
   );

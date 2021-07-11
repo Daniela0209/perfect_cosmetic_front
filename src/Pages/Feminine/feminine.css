@@ -1,4 +1,4 @@
-.fondo {
+.fondoF {
   min-height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -11,23 +11,35 @@
 .header{
   background-color: #EDAEE1;
   height: 90px;
+  margin-bottom: 80px;
   }
 .logoF{
   height:100px;
   width: 160px;
   margin: 0;
   }
-.cerrar{
-  height: 30px;
-  width: 30px;
+.cerrarSesion{
+  height: 50px;
+  width: 50px;
+  background-color:transparent;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+    left: 960px;
+    top: -37px;
   }
+.cerrar{
+  height: 40px;
+  width: 40px;
+}  
 .comentariosF{
-  float: right;
-  margin-top: 15px;
-  margin-right: 20px;
   background-color: transparent;
   border: 0;
   cursor: pointer;
+  position: relative;
+  left: 450px;
+  top: -27px;
+
  }
 .comentariosF:hover{
   color: white;
@@ -142,7 +154,7 @@
   width: 90px;
   height: 80px;
  }
-.pestañina{
+.pestañinaF{
   width: 80px;
   height: 70px;
  }

@@ -1,4 +1,4 @@
-.fondo {
+.fondoG {
     min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -15,11 +15,13 @@
 
  .fraseGender{
     text-align: center;
+    font-family: "Architects Daughter";
  }
  .fraseElegir{
     margin-top: 80px;
     margin-left: 60px;
     text-align: center;
+    font-family: "Architects Daughter";
  }
 
 .mensaje{
@@ -77,6 +79,8 @@
    border: 0;
    color: white;
    cursor: pointer;
+   font-size: 20px;
+   font-family: "Architects Daughter";
  }
  .btnMasculino{
    position:relative;
@@ -88,6 +92,8 @@
    border: 0;
    color: white;
    cursor: pointer;
+   font-size: 20px;
+   font-family: "Architects Daughter";
  }
  .btnOtro{
   position:relative;
@@ -99,4 +105,6 @@
   border: 0;
   color: white;
   cursor: pointer;
+  font-size: 20px;
+  font-family: "Architects Daughter";
  }

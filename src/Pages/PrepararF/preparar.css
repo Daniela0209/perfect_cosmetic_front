@@ -1,0 +1,205 @@
+.fondoPr {
+    max-height: 1830px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    }
+.prepara{
+    height: 65px;
+    width: 71px;
+    background-color: transparent;
+    border: 0;
+    position: relative;
+    left: 187px;
+}
+
+.lavarRostro{
+    height: 300px;
+    width: 400px;
+    margin-left: 20px;
+}
+.tituloLavar{
+    position: relative;
+    left: 80px;
+    font-family: "Architects Daughter";
+}
+.contenidoLavar{
+    max-width: 400px;
+    position: relative;
+    left: 30px;
+}
+
+.piel{
+    position: relative;
+    top: -520px;
+    left: 480px;
+    height: 300px;
+    width: 400px;
+  
+}
+.tituloPiel{
+    position: relative;
+    left: 590px;
+    top: -520px;
+    font-family: "Architects Daughter";
+}
+.contenidoPiel{
+    max-width: 400px;
+    position: relative;
+    top: -520px;
+    left: 490px;
+  
+}
+.hidratada{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -1020px;
+    left: 940px;
+}
+.tituloHidratada{
+    position: relative;
+    top: -1015px;
+    left: 1030px;
+    font-family: "Architects Daughter";
+}
+.contenidoHidratada{
+    max-width: 400px;
+    position: relative;
+    top: -1020px;
+    left: 940px;
+}
+.exfolia{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -974px;
+    left: 20px;
+}
+.tituloExfolia{
+    position: relative;
+    top: -968px;
+    max-width: 400px;
+    left: 22px;
+    font-family: "Architects Daughter";
+}
+.contenidoExfolia{
+    max-width: 400px;
+    position: relative;
+    top: -981px;
+    left: 30px;
+}
+.limpiar{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -1534px;
+    left: 500px;
+}
+.tituloLimpiar{
+    position: relative;
+    top: -1550px;
+    left: 574px;
+    font-family: "Architects Daughter";
+}
+.contenidoLimpiar{
+    max-width: 400px;
+    position: relative;
+    top: -1539px;
+    left: 504px;
+}
+.tituloTonico{
+    position: relative;
+    top: -2023px;
+    left: 1004px;
+    font-family: "Architects Daughter";
+}
+.tonico{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -2005px;
+    left: 965px;
+}
+.contenidoTonico{
+    max-width: 400px;
+    position: relative;
+    top: -2009px;
+    left: 962px;
+}
+.tituloSerum{
+    position: relative;
+    top: -1983px;
+    left: 135px;
+    font-family: "Architects Daughter";
+}
+.serum{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -1964px;
+    left: 26px;
+}
+.contenidoSerum{
+    max-width: 400px;
+    position: relative;
+    top: -1942px;
+    left: 36px;
+}
+.tituloProtector{
+    position: relative;
+    top: -2541px;
+    left: 562px;
+    font-family: "Architects Daughter";
+}
+.protector{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -2509px;
+    left: 505px;
+}
+.contenidoProtector{
+    max-width: 400px;
+    position: relative;
+    top: -2500px;
+    left: 523px;
+}
+.tituloFacial{
+    position: relative;
+    top: -3100px;
+    left: 1020px;
+    font-family: "Architects Daughter";
+}
+.facial{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -3062px;
+    left: 960px;
+}
+.contenidoFacial{
+    max-width: 340px;
+    position: relative;
+    top: -3055px;
+    left: 976px;
+}
+
+.flechaAtrasPr{
+    height: 50px;
+    width: 50px;
+    background-color: transparent;
+    border: 0;
+    position: relative;
+    top: -4647px;
+    left: 5px;
+    cursor: pointer;
+}
+
+.flechaAtrasI{
+height: 40px;
+width: 40px;
+}

@@ -1,0 +1,221 @@
+.fondoD {
+    max-height: 1690px;;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+     }
+.headerD{
+    display: flex;
+    height: 90px;
+    background-color: #EDAEE1;
+}
+
+.logoD{
+    height:100px;
+    width: 160px;
+    margin: 0;
+    } 
+
+.tituloD{
+    position: relative;
+    left: 400px;
+    font-family: "Architects Daughter";
+}    
+.delineado{
+    background-color: transparent;
+    border: 0;
+    position: relative;
+    left: 400px;
+}
+
+/*Imagenes delineados*/
+.simple{
+    height: 300px;
+    width: 400px;
+    margin-left: 20px;
+}
+.tituloSimple{
+    position: relative;
+    left: 80px;
+    font-family: "Architects Daughter";
+}
+.ContenidoSimple{
+    max-width: 400px;
+    position: relative;
+    left: 30px;
+}
+.doble{
+    position: relative;
+    top: -520px;
+    left: 480px;
+    height: 300px;
+    width: 400px;
+  
+}
+.tituloDoble{
+    position: relative;
+    left: 590px;
+    top: -520px;
+    font-family: "Architects Daughter";
+}
+.ContenidoDoble{
+    max-width: 400px;
+    position: relative;
+    top: -520px;
+    left: 490px;
+  
+}
+.gato{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -1020px;
+    left: 940px;
+}
+.tituloGato{
+    position: relative;
+    top: -1015px;
+    left: 1030px;
+    font-family: "Architects Daughter";
+}
+.contenidoGato{
+    max-width: 400px;
+    position: relative;
+    top: -1020px;
+    left: 940px;
+}
+.pinUp{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -1020px;
+    left: 20px;
+}
+.tituloPinup{
+    position: relative;
+    top: -1020px;
+    left: 110px;
+    font-family: "Architects Daughter";
+}
+.contenidoPinup{
+    max-width: 400px;
+    position: relative;
+    top: -1025px;
+    left: 34px;
+}
+.galactico{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -1534px;
+    left: 500px;
+}
+.tituloGalactico{
+    position: relative;
+    top: -1533px;
+    left: 574px;
+    font-family: "Architects Daughter";
+}
+.contenidoGalactico{
+    max-width: 400px;
+    position: relative;
+    top: -1539px;
+    left: 521px;
+}
+
+.tituloSmoky{
+    position: relative;
+    top: -2048px;
+    left: 1004px;
+    font-family: "Architects Daughter";
+}
+.smoky{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -2052px;
+    left: 965px;
+}
+.contenidoSmoky{
+    max-width: 400px;
+    position: relative;
+    top: -2058px;
+    left: 962px;
+}
+
+.tituloGriego{
+    position: relative;
+    top: -2048px;
+    left: 135px;
+    font-family: "Architects Daughter";
+}
+.griego{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -2045px;
+    left: 26px;
+}
+.contenidoGriego{
+    max-width: 400px;
+    position: relative;
+    top: -2049px;
+    left: 36px;
+}
+.tituloEgipcio{
+    position: relative;
+    top: -2607px;
+    left: 562px;
+    font-family: "Architects Daughter";
+}
+.egipcio{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -2606px;
+    left: 505px;
+}
+.contenidoEgipcio{
+    max-width: 400px;
+    position: relative;
+    top: -2609px;
+    left: 523px;
+}
+.tituloHebreo{
+    position: relative;
+    top: -3123px;
+    left: 1020px;
+    font-family: "Architects Daughter";
+}
+.hebreo{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -3123px;
+    left: 960px;
+}
+.contenidoHebreo{
+    max-width: 340px;
+    position: relative;
+    top: -3124px;
+    left: 976px;
+}
+
+.flechaAtras{
+    height: 50px;
+    width: 50px;
+    background-color: transparent;
+    border: 0;
+    position: relative;
+    top: -4647px;
+    left: 5px;
+    cursor: pointer;
+}
+
+.flechaAtrasI{
+height: 40px;
+width: 40px;
+}

@@ -8,7 +8,7 @@ import Sombras from "../../images/sombras.png";
 
 function Other() {
     return (
-        <div className="container-fluid fondo"
+        <div className="container-fluid fondoO"
             style={{ backgroundImage: `url(${Fondo})` }}>
 
             <header

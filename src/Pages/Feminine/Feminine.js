@@ -6,28 +6,30 @@ import Pestañina from "../../images/pestañina.png";
 import Sombras from "../../images/sombras.png";
 import Preparar from "../../images/preparar.png";
 import Productos from "../../images/productos.png";
-import Noche from "../../images/noche.png";
-import Dia from "../../images/dia.png";
-import Trucos from "../../images/trucos.png";
 import "../Feminine/feminine.css";
+import SignOut from "../Login/SignOut";
+import Cerrar from "../../images/cerrar.png";
 
 
 function Feminine() {
     return (
-        <div className="container-fluid fondo"
+        <div className="container-fluid fondoF"
             style={{ backgroundImage: `url(${Fondo})` }}>
             <header
                 className="header">
 
-                <footer> <img className="logoF"
+                
+                 <img className="logoF"
                     class="rounded mx-auto d-block logoF"
                     src={Logo} alt="x" />
 
-                     
-                  
-                    <a href="SobreMi"> <button className="sobremi"><h2 className="sobremi">Sobre mí</h2></button></a>
-                    <a href="Comments"><button className="comentariosF"><h2 className="comentariosF">Sala comentarios</h2></button></a>   </footer>
+             <a href="Comments"><button className="comentariosF"><h2 className="comentariosF">Sala comentarios</h2></button></a> 
 
+                   <button className="cerrarSesion"  onClick={SignOut}>
+                   <img className="cerrar"
+                    class="rounded mx-auto d-block cerrar"
+                    src={Cerrar} alt="x" />
+                   </button>
             </header>
 
             <a href="Delineados">
@@ -39,8 +41,8 @@ function Feminine() {
 
             <a href="Pestañina">
             <button id="pestañina"><strong><h3>Pestañina</h3></strong>
-                <img className="pestañina"
-                    class="rounded mx-auto d-block pestañina"
+                <img className="pestañinaF"
+                    class="rounded mx-auto d-block pestañinaF"
                     src={Pestañina} alt="x" />
             </button>
 
@@ -65,15 +67,6 @@ function Feminine() {
             </button>
             </a>
 
-            <a href="Noche">
-            <button id="noche"><strong><h3>Sombras para la noche</h3></strong>
-                <img className="noche"
-                    class="rounded mx-auto d-block noche"
-                    src={Noche} alt="x" />
-            </button>
-
-            </a>
-
             <a href="Productos">
             <button id="productos"><strong><h3>Productos para un maquillaje básico</h3></strong>
                 <img className="productos"
@@ -85,23 +78,8 @@ function Feminine() {
 
 
 
-            <a href="Dia">
-            <button id="dia"><strong><h3>Sombras para el día</h3></strong>
-                <img className="dia"
-                    class="rounded mx-auto d-block dia"
-                    src={Dia} alt="x" />
-            </button>
 
-            </a>
-
-            <a href="Trucos">
-            <button id="trucos"><strong><h3>Trucos de maquillaje</h3></strong>
-                <img className="trucos"
-                    class="rounded mx-auto d-block trucos"
-                    src={Trucos} alt="x" />
-            </button>
-
-            </a>
+           
 
         </div>
     );

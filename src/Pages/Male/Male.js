@@ -10,7 +10,7 @@ import Piel from "../../images/piel.png";
 function Male() {
     return (
 
-        <div className="container-fluid fondo"
+        <div className="container-fluid fondoM"
             style={{ backgroundImage: `url(${Fondo})` }}>
             <header
                 className="headerM">

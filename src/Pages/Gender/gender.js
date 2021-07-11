@@ -9,7 +9,7 @@ import Labial from "../../images/labial.png";
 
 function Gender(){
     return(
-        <div  className="container-fluid fondo"
+        <div  className="container-fluid fondoG"
         style={{ backgroundImage: `url(${Fondo})` }}>
             
               <img className="beso"   
